@@ -1,4 +1,4 @@
-// 1. Write a program to accept n and store the elements into the array of size n.
+// 1. Write a program to accept n and store the elements into the array of size n
 
 #include <iostream>
 #include <vector>
