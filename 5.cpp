@@ -1,4 +1,4 @@
-// 5. Search the given element from the array
+// 5. Search the given element from the array.
 
 #include <iostream>
 #include <vector>
