@@ -1,4 +1,4 @@
-// 2. Level 1: Find the Sum of all elements in the array
+// 2. Level 1: Find the Sum of all elements in the array.
 
 #include <iostream>
 #include <vector>
