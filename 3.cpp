@@ -1,4 +1,4 @@
-// 3. Find the Minimum value of all elements in the array
+// 3. Find the Minimum value of all elements in the array.
 
 #include <iostream>
 #include <vector>
