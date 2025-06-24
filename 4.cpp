@@ -1,4 +1,4 @@
-// 4. Find the Maximum value of all elements in the array
+// 4. Find the Maximum value of all elements in the array.
 
 #include <iostream>
 #include <vector>
