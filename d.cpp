@@ -1,4 +1,4 @@
-// 4. Implement Binary Search on the array
+// 4. Implement Binary Search on the array.
 
 #include <iostream>
 #include <vector>
