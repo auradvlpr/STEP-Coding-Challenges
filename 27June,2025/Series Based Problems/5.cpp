@@ -6,15 +6,15 @@ int main() {
     cout << "Enter number of terms: ";
     cin >> n;
 
-    int term1 = 10, term2 = 5;
+    int t1 = 10, t2 = 5;
 
     for(int i = 1; i <= n; i++) {
         if(i % 2 != 0) {
-            cout << term1 << " ";
-            term1 += 50;
+            cout << t1 << " ";
+            t1 += 50;
         } else {
-            cout << term2 << " ";
-            term2 += 10;
+            cout << t2 << " ";
+            t2 += 10;
         }
     }
     return 0;
