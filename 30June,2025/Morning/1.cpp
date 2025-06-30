@@ -5,7 +5,7 @@ void digitToWords(int num) {
     string words[] = {"Zero", "One", "Two", "Three", "Four", 
                       "Five", "Six", "Seven", "Eight", "Nine"};
     
-    string result = "";
+    string res = "";
     string s = to_string(num);
     
     for (char c : s) {
